@@ -14,9 +14,9 @@ use App\Http\Controllers\NoteController;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    return redirect('/notes');
+});
 
 Route::get('/sample/view', [PagesController::class, 'view']);
 Route::get('/sample/add', [PagesController::class, 'add']);
