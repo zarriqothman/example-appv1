@@ -12,14 +12,14 @@
                     <label>Name</label>
                     <input type="text" class="form-control is-invalid" id="nameFl" placeholder="Name" required>
                     <div class="invalid-feedback">
-                      Please provide a name.
+                      Please provide a name test.
                     </div>
                 </div>
                 <div class="col-md-6 mb-3">
                     <label>Description</label>
                     <input type="text" class="form-control is-invalid" id="descFl" placeholder="Description" required>
                     <div class="invalid-feedback">
-                      Please provide a description.
+                      Please provide a description test.
                     </div>
                 </div>
             </div>
