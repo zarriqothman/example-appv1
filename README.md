@@ -60,3 +60,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## How the program works
+1. this application include list view, edit, add, and delete the data.
+2. first the application redirect to the list view.
+3. on that page user will select the given option.
+4. if user want to add a new data, select the add button.
+5. application will navigate to add page. user need to fill up the required fields.
+6. if user want to delete the data, select the delete button.
+7. modal popup on the screen for confirmation.
+8. if user want to edit the data, select the edit button.
+9. application will navigate to edit page.
